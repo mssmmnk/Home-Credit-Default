@@ -4,9 +4,8 @@ Welcome to Home Credit Default Risk EDA. The data used here was made available o
 
 While Home Credit is currently using various statistical and machine learning methods to make these predictions, they're challenging Kagglers to help them unlock the full potential of their data. Doing so will ensure that clients capable of repayment are not rejected and that loans are given with a principal, maturity, and repayment calendar that will empower their clients to be successful.'
 
-This project will be divided into two parts:
-1-an exploratory analysis of the data (EDA)
-2-development of a model using machine learning tools to solve the problem proposed in the competition
+The goal of this project is to make an exploratory analysis of the data (EDA)
+
 
 1-Exploratory analysis of the data(EDA)
 
