@@ -9,10 +9,7 @@ The goal of this project is to make an exploratory analysis of the data (EDA)
 
 1-Exploratory analysis of the data(EDA)
 
-For this step, I'll answer a few questions:
+For this step, I'll answer a few the question:
 
 1-What is the customer's socioeconomic profile?
-2-What kind of loans the customers have?
-3-What kind of loans the customers previously requested for?(Direct and indirectly from Home Credit)
-4-What is the monthly balance of credit card loan customers?
-5-What is the amortization profile of credits previously disbursed in Home Credit?
+
